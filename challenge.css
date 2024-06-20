@@ -25,7 +25,7 @@ blockquote {
   max-width: min(100vw, 55ch);
 }
 
-@media (min-width: 760px) {
+@media (width <= 40ch) {
   body {
     background-color: red ! important;
   }
