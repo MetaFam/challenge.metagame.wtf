@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "type": "link",
+    "version": "1.0",
+    "provider_name": "MetaGame",
+    "provider_url": "https://metagame.wtf",
+    "title": "dAcademy Playbook Challenge",
+    "author_name": "dAcademy",
+    "author_url": "https://challenge.metagame.wtf",
+    "thumbnail_width": "725",
+    "thumbnail_height": "408",
+    "thumbnail_url": "https://challenge.metagame.wtf/dAcademystatic1.jpg"
+  }
