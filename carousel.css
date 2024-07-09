@@ -75,7 +75,7 @@ carousel
 		padding-top: 2rem;
 		padding-inline: 0.5rem;
 		text-shadow: 2px 2px black;
-		font-size: calc(var(--_diameter)*0.03;
+		font-size: calc(var(--_diameter)*0.03);
 		text-decoration: none;
 		color: aliceblue;
 		width: inherit;
