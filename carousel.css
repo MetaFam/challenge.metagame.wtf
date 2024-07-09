@@ -110,6 +110,7 @@ carousel
 		transform-origin: center bottom;
 		transform: rotateX(90deg) rotateZ(180deg) rotateY(180deg);
 		position: absolute;
+		opacity: 0.4;
   }
 
 	.carousel-item:hover::before {
