@@ -42,7 +42,6 @@ body {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		background-color: rgb(var(--carousel-bg-color-rgb));
 }
 
 /*
