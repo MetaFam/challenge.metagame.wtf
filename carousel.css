@@ -32,6 +32,7 @@ global
 		padding: 0;
 		border: 0;
 		box-sizing: border-box;
+		border-radius: 1rem 1rem 0 0;
 }
 
 *:focus {
@@ -135,6 +136,7 @@ carousel
 
 	.carousel-item-wrapper:has(.carousel-item:hover) .carousel-ground {
 		opacity: 0.75;
+		
 	}
 	
 	.carousel-control-button {
