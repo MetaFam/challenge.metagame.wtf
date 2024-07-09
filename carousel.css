@@ -57,6 +57,7 @@ carousel
 		perspective-origin: var(--carousel-3d-perspective-origin);
 		width: var(--_diameter);
 		height: calc(var(--_diameter)/1.2);
+		margin-top: -10rem;
 
 	a {
 		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
